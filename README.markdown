@@ -3,6 +3,9 @@
 ## Introduction
 This report presents the findings from an Exploratory Data Analysis (EDA) conducted on the `Books_Data_Clean.csv` dataset using a Jupyter Notebook (`Book_Sales.ipynb`). The dataset contains information about book sales, including attributes such as publishing year, book name, author, language, author rating, book ratings, sales metrics, and publisher details. The analysis focuses on books published after 1990, as specified in the notebook, and aims to uncover patterns, trends, and insights from the data.
 
+![image alt](https://github.com/Raka-Deb/Book-Sales-Analysis-/blob/b777d90e89ee388b267a83551579e4aaf99b820c/stack-of-books-on-a-brown-background-concept-for-world-book-day-photo.jpg)
+
+
 ## Dataset Overview
 The dataset includes 1070 records initially, with the following columns:
 - **index**: Unique identifier for each record.
